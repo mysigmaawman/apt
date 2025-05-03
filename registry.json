@@ -4,5 +4,17 @@
     "description": "First Package made",
     "version": "1.0",
     "url": "https://raw.githubusercontent.com/mysigmaawman/packages/refs/heads/main/first.lua"
+  },
+  "MySecondPackage": {
+    "Author": "AnotherDeveloper",
+    "description": "Second package with different functionality",
+    "version": "1.2",
+    "url": "https://raw.githubusercontent.com/mysigmaawman/packages/refs/heads/main/second.lua"
+  },
+  "MyThirdPackage": {
+    "Author": "Me",
+    "description": "A third package that does something cool",
+    "version": "1.1",
+    "url": "https://raw.githubusercontent.com/mysigmaawman/packages/refs/heads/main/third.lua"
   }
 }
